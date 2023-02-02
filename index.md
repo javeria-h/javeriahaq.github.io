@@ -5,12 +5,13 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Heyyy Everyone!!!
+My name is Javeria Haq, a sophmore at NYUAD. I am a Computer Science major and planning to minor in Interactive Media. This site is dedicated to hosting work that I would be working on whilst enrolled in IM 1511 Introduction to Digital Humanities S23.
 
-## Current Interests and Projects:
+<!-- ## Current Interests and Projects: -->
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+<!-- - Lorem ipsum dolor sit amet -->
+<!-- - Lorem ipsum dolor sit amet -->
+<!-- - DLorem ipsum dolor sit amet -->
+<!-- - Lorem ipsum dolor sit amet -->
+<!-- - Lorem ipsum dolor sit amet -->
