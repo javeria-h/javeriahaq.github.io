@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 1 
+title: Assignment 2 
 excerpt: "?"
 modified: 2/02/2023, 2:00:24
 tags: [intro, beginner, jekyll, tutorial]
