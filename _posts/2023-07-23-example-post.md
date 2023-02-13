@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 1
+title: Assignment 3
 excerpt: "What is a static website generator, and why should I care?"
 modified: 2/02/2023, 2:00:24
 tags: [intro, beginner, jekyll, tutorial]
