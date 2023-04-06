@@ -1,20 +1,25 @@
 ---
 layout: post
-title: Assignment 1
-excerpt: "Working with an item in the Digital Library of the Middle East"
-modified: 2/02/2023, 2:00:24
+title: Digital Literacy Narrative Assignmnet
+excerpt: Digital Literacy Narrative Assignmnet
+modified: 6/04/2023, 2:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
 
-This is a website template created with Jekyll that is designed to be hosted on Github pages. Jekyll is a static website generator, and Github pages provides a free and easy way to host websites created using Jekyll.
+As a university student taking an introductory course in Digital Humanities, I am discovering new ways to utilize technology in both my daily and academic life. Despite growing up in the digital age and having some familiarity with social media and content creation tools, it was not until this course that I fully appreciated the potential of technology for research data management, manipulation and analysis.
 
-## What is a static website generator?
-A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
+As a university student, I find myself relying heavily on social media platforms like Instagram, Twitter and Facebook to stay connected with friends and family, as well as to keep up with the latest news and events happening around campus. The convenience and accessibility of these platforms have been invaluable in helping me maintain social connections. 
 
-## Why should I use a static website?
-A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
+Since joining NYUAD and declaring my major in Computer Science with a minor in Interactive Media, I have had the opportunity to explore a wide range of creative and technical tools. I have been introduced to softwares such as Adobe, Canva, Photoshop and Illustrator, which have helped me develop my skills in graphic design and image editing. Furthermore, my proficiency in programming languages such as Python and C++ has allowed me to create projects that combine technical and creative elements, such as a game that I coded using Processing.
 
-## How is this template different?
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
+In addition, I have also acquired proficiency in HTML, CSS, and JavaScript, which has enabled me to develop engaging and interactive web pages. Recently, in my Communication Lab course, I had the opportunity to work on video editing, which was a new experience for me. Although I had previously used tools like Instagram Reels and iMovie to create short videos, this project pushed me to learn new skills and techniques for editing and storytelling. Overall, these experiences have broadened my perspective on the intersection of technology and creativity, and I am excited to continue exploring this field further.
+
+I have relied on technology to manage my academic work and data. Previously, I mainly used Google Drive for storing and organizing my academic papers and projects, and Microsoft Excel for basic data analysis. However, after enrolling in an introductory course in digital humanities, I discovered the significance of proper data organization through the article “Data Organization in Spreadsheets” by Karl and Kara. The article highlighted the importance of consistency in data organization, especially when manipulating data for various purposes such as mapping, which I had the opportunity to explore using Kepler. I realized that data organization is crucial for successful analysis and visualization. The article helped me understand how to optimize my data organization for different research projects.
+
+During this Digital Humanities course, I was introduced to a variety of tools for data analysis and visualization, such as Project Gutenberg, Voyant tools, and programming languages like Python and R. These tools allowed me to extract text data and perform network analysis, which was something new to me. Additionally, I gained an appreciation for the importance of metadata, which I learned about while working with the Digital Library of the Middle East. One of the most interesting aspects of the course was learning about different ways to represent data through visualization and mapping. Kepler was one such tool that I used to explore the same dataset in different ways, and I was fascinated by the different meanings that could be derived from the same set of data through different visualizations. 
+
+Taking this course has not only equipped me with valuable skills for research data management and analysis but also shed light on the potential dangers of excessive reliance on AI. As a regular social media user, I was aware of the possibility of fake content, but I never fully grasped the extent of the issue until I came across an article by Kim Eckart titled "A growing problem of 'deepfake geography': How AI falsifies satellite images." In the article, Eckart highlights how satellite images have become a crucial tool for various applications such as disaster response, urban planning, and military surveillance. However, with the rise of advanced digital image manipulation technology, it has become easier to create fake satellite images that can mislead people. This phenomenon is known as "deepfake geography." It is crucial for individuals and organizations to remain vigilant and develop improved methods for verifying the authenticity of images and videos to prevent potential harm caused by deepfake geography. The potential threats of AI and deepfake technology serve as a reminder to approach technological advancements with caution and to always consider the potential consequences. 
+
+As I move forward in my education and career, I will strive to stay informed about the latest developments in technology and digital humanities, while also prioritizing ethical considerations and responsible use. Overall, this course has provided me with valuable insights and skills that will undoubtedly benefit me in my future academic and professional endeavors.
