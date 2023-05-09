@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Literacy Narrative
+title: Assignment 0
 excerpt: "Digital Literacy Narrative Assignment"
 modified: 6/04/2023, 2:00:24
 tags: [intro, beginner, jekyll, tutorial]
