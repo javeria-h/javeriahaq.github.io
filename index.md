@@ -10,10 +10,10 @@ My name is Javeria Haq, a sophmore at NYUAD. I am a Computer Science major and p
 
 ## Skills: 
 
-1.Proficiency in programming languages: Python, C++, HTML, CSS and JavaScript
-2.Graphic design and image editing: Adobe, Canva, Photoshop and Illustrator
-3.Game development: Processing
-4.Data organization and analysis: Google Drive, Microsoft Excel
-5.Text data extraction and network analysis: Project Gutenberg, Voyant
-6.Data visualization and mapping: Kepler
-7.Image recognition and categorization: Orange
+- Proficiency in programming languages: Python, C++, HTML, CSS and JavaScript
+- Graphic design and image editing: Adobe, Canva, Photoshop and Illustrator
+- Game development: Processing
+- Data organization and analysis: Google Drive, Microsoft Excel
+- Text data extraction and network analysis: Project Gutenberg, Voyant
+- Data visualization and mapping: Kepler
+- Image recognition and categorization: Orange
