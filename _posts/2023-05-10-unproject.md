@@ -4,8 +4,8 @@ title: Final Project Presentation
 excerpt: "Unproject idea slides"
 theme: night
 transition: zoom
-tags: [presentation]
-category: presentation
+tags: [unproject]
+category: unproject
 ---
 <section data-markdown>
   <textarea data-template>
