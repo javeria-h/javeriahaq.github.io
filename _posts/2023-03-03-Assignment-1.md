@@ -8,4 +8,4 @@ comments: true
 category: blog
 ---
 
-Hi
+[Link to Nikita's Website Assignment 1](https://niki1311.github.io/blog/Assignment-1/)
