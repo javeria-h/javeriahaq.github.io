@@ -7,4 +7,4 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
-Hi 2
+[Link to Nikita's Website Assignment 3](https://niki1311.github.io/blog/Assignment-3/)
