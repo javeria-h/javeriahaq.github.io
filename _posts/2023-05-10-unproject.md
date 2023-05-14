@@ -1,10 +1,10 @@
 ---
 layout: slide
 title: Final Project Presentation
-excerpt: "Unproject idea slides"
+excerpt: "Safer Routes"
 theme: night
 transition: zoom
-tags: [unproject]
+tags: [presentation]
 category: unproject
 ---
 <section data-markdown>
